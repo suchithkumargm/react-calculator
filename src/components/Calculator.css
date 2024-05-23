@@ -1,0 +1,16 @@
+.calculator{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.calculator input{
+    background-color:#FF724C;
+    color:white;
+    height:5rem;
+    width:5rem;
+}
+
+.calculator input:hover{
+    background-color: #ff4716;
+    transition:transform 0.5s;
+}
